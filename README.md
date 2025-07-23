@@ -14,4 +14,4 @@ A modern and minimalistic app landing page built using HTML, CSS, and JavaScript
 - Coded by **Piyush Joshi**
 
 ### 🔗 Live Demo:
-[Click to View](https://yourusername.github.io/launchapp-ui/)
+[Click to View](https://piyush2707.github.io/app-launch-page-ui/)
